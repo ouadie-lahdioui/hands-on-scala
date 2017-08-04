@@ -1,4 +1,6 @@
-# hands-on-scala
+<p align="center">
+	<img src="https://upload.wikimedia.org/wikipedia/en/8/85/Scala_logo.png">
+</p>
 
 ## Exercise 1: Pascal’s Triangle
 
@@ -20,4 +22,4 @@ Do this exercise by implementing the pascal function in Main.scala, which takes 
 def pascal(c: Int, r: Int): Int
 ````
 
-- :white_check_mark: [Solution](/src/main/scala/Excercice1.scala) 
+:moyai: [Solution](/src/main/scala/Excercice1.scala) 
