@@ -22,4 +22,29 @@ Do this exercise by implementing the pascal function in Main.scala, which takes 
 def pascal(c: Int, r: Int): Int
 ````
 
-:moyai: [Solution](/src/main/scala/Excercice1.scala) 
+:astonished: [Solution](src/main/scala/Exercise1.scala)
+ 
+ 
+## Exercise 1: xXx
+
+xXx
+
+:astonished: [Solution](src/main/scala/Exercise1.scala) 
+
+## Exercise 1: xXx
+
+xXx
+
+:persevere: [Solution](src/main/scala/Exercise1.scala) 
+
+## Exercise 1: xXx
+
+xXx
+
+:astonished: [Solution](src/main/scala/Exercise1.scala) 
+
+## Exercise 1: xXx
+
+xXx
+
+:neutral_face: [Solution](src/main/scala/Exercise1.scala) 
