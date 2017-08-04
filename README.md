@@ -37,9 +37,7 @@ Write a recursive function which verifies the balancing of parentheses in a stri
 
 The last example shows that it’s not enough to verify that a string contains the same number of opening and closing parentheses.
 
-Do this exercise by implementing the balance function in Main.scala. Its signature is as follows:
-
-
+Do this exercise by implementing the balance function in Main.scala. Its signature is as follows :
 
 ````scala
 def balance(chars: List[Char]): Boolean
