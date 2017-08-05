@@ -37,8 +37,7 @@ Write a recursive function which verifies the balancing of parentheses in a stri
 
 The last example shows that it’s not enough to verify that a string contains the same number of opening and closing parentheses.
 
-Do this exercise by implementing the balance function in Main.scala. Its signature is as follows :
-
+Do this exercise by implementing the balance function in Main.scala. Its signature is as follows : 
 ````scala
 def balance(chars: List[Char]): Boolean
 ````
@@ -69,16 +68,4 @@ Once again, you can make use of functions isEmpty, head and tail on the list of 
 
 Hint: Think of the degenerate cases. How many ways can you give change for 0 CHF(swiss money)? How many ways can you give change for >0 CHF, if you have no coins?
 
-:persevere: [Solution](src/main/scala/Exercise1.scala) 
-
-## Exercise 1: xXx
-
-xXx
-
-:astonished: [Solution](src/main/scala/Exercise1.scala) 
-
-## Exercise 1: xXx
-
-xXx
-
-:neutral_face: [Solution](src/main/scala/Exercise1.scala) 
+:persevere: [Solution](src/main/scala/Exercise1.scala)
